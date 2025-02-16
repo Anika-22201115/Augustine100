@@ -1,4 +1,4 @@
-/* =================================================================== 
+/* ===================================================================
  * Augustine Main Stylesheet
  * Template Ver. 1.0.0
  * 03-16-2022
@@ -334,7 +334,7 @@ hr {
 }
 
 pre {
-    font-family : monospace, monospace;
+    font-family : Helvetica;
     font-size   : 1em;
 }
 
@@ -513,7 +513,7 @@ body {
 }
 
 body {
-    background-color            : var(--color-body);
+    background-color            : burlywood;;
     -webkit-overflow-scrolling  : touch;
     -webkit-text-size-adjust    : 100%;
     -webkit-tap-highlight-color : rgba(0, 0, 0, 0);
