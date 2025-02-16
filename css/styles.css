@@ -2951,7 +2951,7 @@ img.u-pull-left {
 
 .s-header__nav a:focus,
 .s-header__nav a:hover {
-    color : var(--color-1);
+    color : red;
 }
 
 .s-header__nav ul {
